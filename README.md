@@ -1,16 +1,16 @@
 # **Elevating Maven Telecom's Customer Retention: Data-Driven Insights** 📉
-# **Introduction:-**
+# **Introduction:**
 
 In the fast-paced realm of telecommunications, Maven Telecom thrives as a major player. However, the issue of customer churn poses a critical challenge. Retaining customers holds the key to sustained success. This project delves deep into Maven Telecom's data landscape to uncover the drivers of churn and illuminate avenues for retention. By distilling complex insights into actionable strategies, this analysis equips Maven Telecom to optimize customer loyalty and fortify its industry standing.
 
 ![1692778877814](https://github.com/Azzi99/Customer_Churn_Analysis/assets/114465492/a44b8f9a-886d-458d-943a-83ced746a6c7)
 
 ---
-**Churning Customer Challenge:-**
+**Churning Customer Challenge:**
 
 In this scenario, the pressing concern revolves around customer churn - the departure of customers from Maven Telecom's services. The company acknowledges that retaining customers is not only vital for maintaining a steady revenue stream but also for fostering sustainable growth amidst intense market competition. The challenge lies in understanding the intricate dynamics that drive customers to discontinue their subscriptions.
 
-**Key Questions Addressed:-**
+**Key Questions Addressed:**
 
 In my analysis, I have delved into the following key questions to unearth insights that will directly impact Maven Telecom's retention strategy:
 
@@ -59,7 +59,7 @@ In my analysis, I have delved into the following key questions to unearth insigh
    - Present findings via engaging dashboard.3
 ---
 
-# **Insights:-**
+# **Insights:**
 
 1. **Revenue Impact:**
    - A total loss of $3.68 million has been incurred due to churn, accounting for a substantial 26.54% of the total generated revenue. This emphasizes the critical need to address customer attrition swiftly and strategically.
@@ -73,7 +73,7 @@ In my analysis, I have delved into the following key questions to unearth insigh
 4. **Diverse Churn Drivers:**
    - Beyond fierce competition, two significant factors drive customer churn: product dissatisfaction and network issues. This multifaceted nature of churn underscores the need for a comprehensive strategy that addresses various aspects of service quality.
 
-# **Recommendations:-**
+# **Recommendations:**
 
 1. **Prioritize Long-Term Contracts:**
    - Channel efforts towards promoting 2-Year contracts, which exhibit stability in customer retention. This customer segment contributes significantly, accounting for 26% of the customer base and a substantial 42.3% of the total revenue.
@@ -105,7 +105,7 @@ In my analysis, I have delved into the following key questions to unearth insigh
 10. **Educate Customers for Informed Decisions:**
     - Educate customers about the benefits of different contract types and plans. Empowering customers to make informed choices can lead to greater satisfaction and reduced churn.
 ----
-# **Dashboard:-**
+# **Dashboard:**
 
 
 ![Customer churn analysis_page-0001](https://github.com/Azzi99/Customer_Churn_Analysis/assets/114465492/81d0880e-d2ce-4d6d-a3d0-ecd27f16b9e2)
